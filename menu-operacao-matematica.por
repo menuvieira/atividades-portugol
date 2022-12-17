@@ -11,7 +11,7 @@ programa
 		escreva("Escolha o segundo número: ")
 		leia(num2)
 
-		escreva("Digite qual operação deseja realizar (soma = 1, subtração = 2, multiplicação = 3 ou divisão = 4): ")
+		escreva("Digite qual operação deseja realizar (soma = 1, subtração = 2, multiplicação = 3 ou divisão = 4: ")
 		leia(operacao)
 
 		soma = num1 + num2
@@ -53,7 +53,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 310; 
+ * @POSICAO-CURSOR = 309; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
